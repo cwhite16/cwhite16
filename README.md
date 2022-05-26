@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cwhite16
-- 👀 I’m a wet lab scientist interested in single cell gene expression
-- 🌱 I’m currently learning the basics of R and Python
+- 👀 I’m a wet lab scientist interested in single cell multiomics
+- 🌱 I’m currently working on improving my skills in R and Python
 - 📫 Reach me via email @caswhite698@gmail.com
 
 <!---
